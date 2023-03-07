@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  margin-bottom: 15px;
+}
+
+select {
+  margin-right: 15px;
+}
+
+select, input {
+  font-size: 2rem;
+}

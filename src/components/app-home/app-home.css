@@ -1,0 +1,38 @@
+.app-home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;;
+  align-items: center;
+  width: 100%;
+  margin-top: 25px;
+  padding: 10px;
+}
+
+.mg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mountain {
+  font-family: monospace;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 3rem;
+  white-space: pre;
+}
+
+.mountain-text {
+  margin: 0;
+}
+
+hr {
+  width: 50%;
+  margin-top: 20px;
+  border-color: #b0b0b0;
+}
+
+.prompt {
+  font-size: 2em;
+}
